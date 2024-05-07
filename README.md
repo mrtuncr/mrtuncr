@@ -1,10 +1,8 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm mrtuncr, Front-End Developer :computer: 
+  I'm mrtuncr, Front-End Developer :computer: Still learning..
   </br>
   <div>
-  <a href="https://harveycw.netlify.app/" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
-  </a>
+ 
   </div> 
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
